@@ -1,0 +1,280 @@
+company,career_url,priority,notes,enabled,category
+OpenAI,https://jobs.ashbyhq.com/OpenAI,1,AI platform; verified Ashby,yes,AI
+Cohere,https://jobs.ashbyhq.com/Cohere,1,LLM platform; verified Ashby,yes,AI
+Perplexity,https://jobs.ashbyhq.com/Perplexity,1,AI search/retrieval; verified Ashby,yes,AI
+Cursor,https://jobs.ashbyhq.com/Cursor,1,AI coding/devtools; verified Ashby,yes,AI
+LangChain,https://jobs.ashbyhq.com/LangChain,1,Agents/RAG tooling; verified Ashby,yes,AI
+Replit,https://jobs.ashbyhq.com/Replit,1,AI coding/platform; verified Ashby,yes,AI
+ElevenLabs,https://jobs.ashbyhq.com/ElevenLabs,2,AI audio; verified Ashby,yes,AI
+Runway,https://jobs.ashbyhq.com/Runway,2,GenAI media; verified Ashby,yes,AI
+Databricks,https://boards.greenhouse.io/databricks,1,Data/AI platform; verified Greenhouse,yes,Data/AI
+Stripe,https://boards.greenhouse.io/stripe,1,High-paying backend/platform; verified Greenhouse,yes,Fintech
+Coinbase,https://boards.greenhouse.io/coinbase,1,High-paying backend/distributed systems; verified Greenhouse,yes,Fintech/Crypto
+Datadog,https://boards.greenhouse.io/datadog,1,Infra/observability; verified Greenhouse,yes,Infra
+MongoDB,https://boards.greenhouse.io/mongodb,1,Database/search/platform; verified Greenhouse,yes,Data Infra
+Elastic,https://boards.greenhouse.io/elastic,1,Search/retrieval/backend; verified Greenhouse,yes,Search/Data
+Figma,https://boards.greenhouse.io/figma,2,Product/backend/platform; verified Greenhouse,yes,SaaS
+Roblox,https://boards.greenhouse.io/roblox,2,Large-scale platform; verified Greenhouse,yes,Consumer/Platform
+Affirm,https://boards.greenhouse.io/affirm,2,Fintech backend/data; verified Greenhouse,yes,Fintech
+Asana,https://boards.greenhouse.io/asana,3,Product/backend; verified Greenhouse,yes,SaaS
+Dropbox,https://boards.greenhouse.io/dropbox,2,Storage/platform/backend; verified Greenhouse,yes,Infra/SaaS
+Instacart,https://boards.greenhouse.io/instacart,3,Backend/data; verified Greenhouse,yes,Consumer
+Cloudflare,https://boards.greenhouse.io/cloudflare,1,Infra/distributed systems; verified Greenhouse,yes,Infra
+Okta,https://boards.greenhouse.io/okta,2,Identity/platform/backend; verified Greenhouse,yes,Security
+Twilio,https://boards.greenhouse.io/twilio,2,Messaging/platform/backend; verified Greenhouse,yes,SaaS
+Brex,https://boards.greenhouse.io/brex,2,Fintech/backend/platform; verified Greenhouse,yes,Fintech
+Rubrik,https://boards.greenhouse.io/rubrik,1,Cloud/data infra; verified Greenhouse,yes,Infra
+Samsara,https://boards.greenhouse.io/samsara,2,IoT/platform/backend; verified Greenhouse,yes,IoT
+Scale AI,https://boards.greenhouse.io/scaleai,1,AI data/platform; verified Greenhouse,yes,AI
+Airbnb,https://boards.greenhouse.io/airbnb,2,High-paying product/backend; verified Greenhouse,yes,Consumer
+Reddit,https://boards.greenhouse.io/reddit,2,Feed/search/backend/platform; verified Greenhouse,yes,Consumer
+Google,https://www.google.com/about/careers/applications/jobs/results,1,Top SDE2 target; custom careers,yes,Big Tech
+Microsoft,https://jobs.careers.microsoft.com/global/en/search,1,Top SDE2 target; custom careers,yes,Big Tech
+Amazon,https://www.amazon.jobs/en/search,1,SDE II target; custom careers,yes,Big Tech
+Meta,https://www.metacareers.com/jobs,1,Top SDE2 target; custom careers,yes,Big Tech
+Apple,https://jobs.apple.com/en-us/search,1,Top systems/platform target; custom careers,yes,Big Tech
+Netflix,https://explore.jobs.netflix.net/careers,1,High compensation/backend/platform,yes,Big Tech/Media
+NVIDIA,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite,1,AI/infra/GPU platform,yes,Semiconductor/AI
+Adobe,https://careers.adobe.com/us/en/search-results,2,Product/platform engineering,yes,SaaS
+Salesforce,https://careers.salesforce.com/en/jobs/,2,SaaS/platform backend,yes,SaaS
+Oracle,https://careers.oracle.com/jobs/,2,Cloud/backend/data,yes,Cloud
+ServiceNow,https://careers.servicenow.com/jobs,2,Enterprise platform/backend,yes,SaaS
+Intuit,https://jobs.intuit.com/search-jobs,2,Fintech/product backend,yes,Fintech
+LinkedIn,https://www.linkedin.com/jobs/search/?f_C=1337,1,Backend/search/feed; use LinkedIn jobs,yes,Big Tech
+Uber,https://www.uber.com/us/en/careers/list/,1,High-paying SDE2/backend,yes,Mobility
+Walmart Global Tech,https://tech.walmart.com/content/walmart-global-tech/en_us/careers.html,1,High-paying India/global tech,yes,Retail Tech
+Atlassian,https://www.atlassian.com/company/careers/all-jobs,2,SaaS/platform; strong India presence,yes,SaaS
+Roku,https://www.weareroku.com/jobs,1,High-paying India SWE target,yes,Media/Platform
+Broadcom,https://broadcom.wd1.myworkdayjobs.com/External_Career,1,High-paying infra/semiconductor,yes,Semiconductor
+Indeed,https://www.indeed.jobs/jobs,1,High-paying India SWE target,yes,Jobs/Search
+Booking.com,https://jobs.booking.com/careers,1,High-paying SDE2 target,yes,Travel
+Snowflake,https://careers.snowflake.com/us/en/search-results,1,Data infra/top compensation,yes,Data Infra
+Tower Research Capital,https://www.tower-research.com/open-positions/,1,Top quant/high comp,yes,Trading
+Quadeye,https://www.quadeye.com/careers/,1,Top quant/high comp India,yes,Trading
+Jane Street,https://www.janestreet.com/join-jane-street/open-roles/,1,Top quant/high comp,yes,Trading
+Hudson River Trading,https://www.hudsonrivertrading.com/careers/,1,Top quant/high comp,yes,Trading
+Citadel Securities,https://www.citadelsecurities.com/careers/open-opportunities/,1,Top quant/high comp,yes,Trading
+Citadel,https://www.citadel.com/careers/open-opportunities/,1,Top quant/high comp,yes,Trading
+Two Sigma,https://www.twosigma.com/careers/open-roles/,1,Top quant/high comp,yes,Trading
+DE Shaw,https://www.deshaw.com/careers,1,Top quant/high comp India,yes,Trading
+Optiver,https://optiver.com/working-at-optiver/career-opportunities/,1,Top trading tech,yes,Trading
+IMC Trading,https://www.imc.com/us/careers/jobs/,1,Top trading tech,yes,Trading
+DRW,https://drw.com/careers/job-openings,1,Top trading tech,yes,Trading
+Millennium,https://www.mlp.com/careers/job-openings/,1,Top trading tech,yes,Trading
+WorldQuant,https://www.worldquant.com/career-listing/,1,Quant/research engineering,yes,Trading
+Rippling,https://www.rippling.com/careers/open-roles,1,High-paying SaaS/backend,yes,SaaS
+Plaid,https://plaid.com/careers/openings/,1,Fintech/backend/platform,yes,Fintech
+Ramp,https://ramp.com/careers/jobs,1,Fintech/backend/platform,yes,Fintech
+Robinhood,https://careers.robinhood.com/openings/,1,Fintech/backend/platform,yes,Fintech
+Mercury,https://mercury.com/jobs,2,Fintech/backend,yes,Fintech
+Chime,https://careers.chime.com/jobs,2,Fintech/backend,yes,Fintech
+SoFi,https://www.sofi.com/careers/,2,Fintech/backend,yes,Fintech
+Wise,https://wise.jobs/search,2,Fintech/backend,yes,Fintech
+Revolut,https://www.revolut.com/careers/,2,Fintech/backend,yes,Fintech
+Adyen,https://careers.adyen.com/vacancies,2,Payments/backend,yes,Fintech
+PayPal,https://paypal.eightfold.ai/careers,2,Payments/backend,yes,Fintech
+Block,https://block.xyz/careers/jobs,2,Payments/backend/platform,yes,Fintech
+Square,https://careers.squareup.com/us/en/jobs,2,Payments/backend/platform,yes,Fintech
+PhonePe,https://www.phonepe.com/careers/job-openings/,1,India fintech/backend,yes,Fintech India
+Razorpay,https://razorpay.com/jobs/,1,India fintech/backend,yes,Fintech India
+CRED,https://cred.club/careers,1,India fintech/backend,yes,Fintech India
+Groww,https://groww.in/careers,1,India fintech/backend,yes,Fintech India
+Zerodha,https://zerodha.com/careers/,1,India fintech/backend,yes,Fintech India
+Navi,https://navi.com/careers,2,India fintech/backend,yes,Fintech India
+Pine Labs,https://www.pinelabs.com/careers,2,India payments/backend,yes,Fintech India
+Juspay,https://juspay.in/careers,1,India payments/backend,yes,Fintech India
+CoinDCX,https://coindcx.com/careers,2,Crypto/backend India,yes,Crypto
+Kraken,https://www.kraken.com/careers,2,Crypto/backend,yes,Crypto
+Gemini,https://www.gemini.com/careers,2,Crypto/backend,yes,Crypto
+Circle,https://www.circle.com/en/careers,2,Crypto/backend,yes,Crypto
+FalconX,https://falconx.io/careers/,2,Crypto/backend/trading,yes,Crypto
+Binance,https://www.binance.com/en/careers/job-openings,2,Crypto/backend,yes,Crypto
+OKX,https://www.okx.com/careers,2,Crypto/backend,yes,Crypto
+Confluent,https://www.confluent.io/careers/open-positions/,1,Kafka/data streaming; strong resume fit,yes,Data Infra
+HashiCorp,https://www.hashicorp.com/careers/open-positions,1,Infra/platform/Kubernetes,yes,Infra
+Cockroach Labs,https://www.cockroachlabs.com/careers/open-positions/,1,Distributed database,yes,Data Infra
+Redis,https://redis.io/careers/jobs/,1,Redis/data infra; resume fit,yes,Data Infra
+Neo4j,https://neo4j.com/careers/jobs/,2,Database/platform,yes,Data Infra
+SingleStore,https://www.singlestore.com/careers/jobs/,2,Database/platform,yes,Data Infra
+ClickHouse,https://clickhouse.com/company/careers,1,Database/data infra,yes,Data Infra
+Starburst,https://www.starburst.io/careers/,2,Data infra/query engines,yes,Data Infra
+Dremio,https://www.dremio.com/careers/jobs/,2,Data lakehouse/platform,yes,Data Infra
+dbt Labs,https://www.getdbt.com/careers/open-positions,2,Data tooling/platform,yes,Data Infra
+Fivetran,https://www.fivetran.com/careers/jobs,2,Data pipelines/backend,yes,Data Infra
+Airbyte,https://airbyte.com/company/careers,2,Data pipelines/backend,yes,Data Infra
+Segment,https://segment.com/jobs/,2,Data platform/backend,yes,Data Infra
+Hightouch,https://hightouch.com/careers,2,Data platform/backend,yes,Data Infra
+Census,https://www.getcensus.com/careers,2,Data platform/backend,yes,Data Infra
+Amplitude,https://amplitude.com/careers,2,Analytics/platform backend,yes,Data/SaaS
+Mixpanel,https://mixpanel.com/careers/,2,Analytics/platform backend,yes,Data/SaaS
+ThoughtSpot,https://www.thoughtspot.com/careers/job-openings,2,Analytics/search/AI,yes,Data/SaaS
+Pinecone,https://www.pinecone.io/careers/,1,Vector DB/RAG; strong resume fit,yes,AI/Data Infra
+Weaviate,https://weaviate.io/company/careers,1,Vector DB/RAG,yes,AI/Data Infra
+Qdrant,https://qdrant.tech/careers/,1,Vector DB/RAG; resume fit,yes,AI/Data Infra
+Zilliz,https://zilliz.com/careers,1,Vector DB/Milvus/RAG,yes,AI/Data Infra
+LlamaIndex,https://www.llamaindex.ai/careers,1,RAG/agents tooling,yes,AI
+Together AI,https://www.together.ai/careers,1,AI infra,yes,AI
+Fireworks AI,https://fireworks.ai/careers,1,AI inference infra,yes,AI
+Groq,https://groq.com/careers/,1,AI inference hardware/software,yes,AI
+Cerebras,https://www.cerebras.net/careers/,1,AI systems,yes,AI
+CoreWeave,https://www.coreweave.com/careers,1,GPU cloud/infra,yes,AI Infra
+Lambda Labs,https://lambdalabs.com/careers,1,GPU cloud/infra,yes,AI Infra
+Crusoe,https://www.crusoe.ai/careers,2,AI cloud/infra,yes,AI Infra
+Modal,https://modal.com/careers,1,Cloud/AI developer infra,yes,AI Infra
+Hugging Face,https://huggingface.co/jobs,1,AI platform/open source,yes,AI
+Mistral AI,https://mistral.ai/careers,1,LLM company,yes,AI
+Character.AI,https://character.ai/careers,1,LLM product/platform,yes,AI
+Glean,https://www.glean.com/careers,1,AI search/retrieval,yes,AI Search
+Adept,https://www.adept.ai/careers,2,AI agents,yes,AI
+Inflection AI,https://inflection.ai/careers,2,LLM company,yes,AI
+Weights & Biases,https://wandb.ai/careers,2,ML platform/devtools,yes,AI Platform
+Vercel,https://vercel.com/careers,2,Developer platform/backend,yes,DevTools
+Netlify,https://www.netlify.com/careers/,2,Developer platform/backend,yes,DevTools
+Cloudinary,https://cloudinary.com/careers,2,Media backend/platform,yes,DevTools
+Fastly,https://www.fastly.com/about/careers/current-openings,2,Edge infra/distributed systems,yes,Infra
+Akamai,https://www.akamai.com/careers,2,Edge infra/distributed systems,yes,Infra
+DigitalOcean,https://www.digitalocean.com/careers,2,Cloud/platform,yes,Cloud
+Render,https://render.com/careers,2,Cloud developer platform,yes,Cloud
+Temporal,https://temporal.io/careers,1,Workflow/backend; strong resume fit,yes,Infra
+Tailscale,https://tailscale.com/careers,2,Networking/platform,yes,Infra
+Docker,https://www.docker.com/career-openings/,2,Developer infra/Kubernetes,yes,DevTools
+Grafana Labs,https://grafana.com/about/careers/open-positions/,1,Observability/infra,yes,Infra
+New Relic,https://newrelic.com/about/careers,2,Observability/backend,yes,Infra
+Splunk,https://www.splunk.com/en_us/careers/search-jobs.html,2,Observability/data backend,yes,Infra
+Sumo Logic,https://www.sumologic.com/company/careers/,2,Observability/backend,yes,Infra
+Palo Alto Networks,https://jobs.paloaltonetworks.com/en/jobs/,1,Security/platform,yes,Security
+CrowdStrike,https://www.crowdstrike.com/careers/,1,Security/backend/infra,yes,Security
+Zscaler,https://www.zscaler.com/careers/search-jobs,1,Security/cloud backend,yes,Security
+SentinelOne,https://www.sentinelone.com/careers/jobs/,2,Security/backend,yes,Security
+Wiz,https://www.wiz.io/careers,1,Cloud security/backend,yes,Security
+Snyk,https://snyk.io/careers/,2,Developer security/platform,yes,Security
+1Password,https://1password.com/careers,2,Security/backend,yes,Security
+Bitwarden,https://bitwarden.com/careers/,2,Security/backend,yes,Security
+GitLab,https://about.gitlab.com/jobs/all-jobs/,2,Developer platform/backend,yes,DevTools
+GitHub,https://www.github.careers/careers-home/jobs,1,Developer platform/backend,yes,DevTools
+Postman,https://www.postman.com/company/careers/,2,API/devtools backend,yes,DevTools
+Sourcegraph,https://sourcegraph.com/jobs,2,Code search/devtools,yes,DevTools
+JetBrains,https://www.jetbrains.com/careers/jobs/,2,Devtools/platform,yes,DevTools
+Linear,https://linear.app/careers,2,SaaS/product/backend,yes,SaaS
+Retool,https://retool.com/careers,2,Developer tools/backend,yes,DevTools
+Coda,https://coda.io/careers,2,SaaS/product backend,yes,SaaS
+Webflow,https://webflow.com/careers/jobs,2,SaaS/platform backend,yes,SaaS
+Framer,https://www.framer.com/careers/,3,SaaS/platform,yes,SaaS
+Airtable,https://www.airtable.com/careers,2,SaaS/backend/platform,yes,SaaS
+Grammarly,https://www.grammarly.com/jobs,2,AI/product backend,yes,AI/SaaS
+Duolingo,https://careers.duolingo.com/,3,Consumer/product backend,yes,Consumer
+Coursera,https://about.coursera.org/careers/jobs,3,Edtech/backend,yes,EdTech
+Udemy,https://about.udemy.com/careers/,3,Edtech/backend,yes,EdTech
+Khan Academy,https://www.khanacademy.org/careers,3,Edtech/backend,yes,EdTech
+Discord,https://discord.com/jobs,2,Realtime/backend/platform,yes,Consumer
+Slack,https://slack.com/careers,2,Realtime messaging/backend,yes,SaaS
+Zoom,https://careers.zoom.us/jobs/search,2,Realtime systems/backend,yes,SaaS
+Shopify,https://www.shopify.com/careers/search,2,Commerce platform/backend,yes,Commerce
+Etsy,https://www.etsy.com/careers,3,Marketplace/backend,yes,Commerce
+eBay,https://jobs.ebayinc.com/us/en/search-results,2,Marketplace/backend,yes,Commerce
+Expedia,https://careers.expediagroup.com/jobs/,2,Travel/backend/platform,yes,Travel
+Agoda,https://careersatagoda.com/jobs/,2,Travel/backend/platform,yes,Travel
+Grab,https://grab.careers/jobs/,2,Consumer/backend/platform,yes,Consumer
+Gojek,https://www.gojek.io/careers,2,Backend/platform India/SEA,yes,Consumer
+ByteDance,https://jobs.bytedance.com/en/position,1,High-paying backend/platform,yes,Consumer/AI
+TikTok,https://careers.tiktok.com/position,1,High-paying backend/platform,yes,Consumer/AI
+Shopee,https://careers.shopee.sg/jobs,2,Backend/platform SEA,yes,Commerce
+Lazada,https://www.lazada.com/en/careers/job-search/,2,Commerce/backend SEA,yes,Commerce
+Coupang,https://www.coupang.jobs/en/jobs/,2,Commerce/backend/platform,yes,Commerce
+Flipkart,https://www.flipkartcareers.com/#!/joblist,1,Top India product/backend,yes,Commerce India
+Myntra,https://careers.myntra.com/jobs,2,India commerce/backend,yes,Commerce India
+Meesho,https://www.meesho.io/jobs,1,India commerce/backend,yes,Commerce India
+Swiggy,https://careers.swiggy.com/#/careers,1,India consumer/backend,yes,Consumer India
+Zomato,https://www.zomato.com/careers,1,India consumer/backend,yes,Consumer India
+Zepto,https://www.zeptonow.com/careers,1,India quick commerce/backend,yes,Consumer India
+ShareChat,https://sharechat.com/careers,2,India consumer/backend,yes,Consumer India
+Dream11,https://www.dreamsports.group/careers/,1,India consumer/high scale backend,yes,Consumer India
+MakeMyTrip,https://careers.makemytrip.com/,2,India travel/backend,yes,Travel India
+OYO,https://www.oyorooms.com/careers/,3,India travel/backend,yes,Travel India
+Freshworks,https://www.freshworks.com/company/careers/jobs/,2,India SaaS/backend,yes,SaaS India
+Zoho,https://www.zoho.com/careers/job-openings.html,2,India SaaS/backend,yes,SaaS India
+Chargebee,https://www.chargebee.com/careers/jobs/,2,India SaaS/backend,yes,SaaS India
+BrowserStack,https://www.browserstack.com/careers/jobs,1,India devtools/backend,yes,DevTools India
+Hasura,https://hasura.io/careers/,2,India devtools/backend,yes,DevTools India
+Tekion,https://tekion.com/careers,2,India/US SaaS backend,yes,SaaS
+Zeta,https://www.zeta.tech/in/careers/,2,India fintech/platform,yes,Fintech India
+Observe.AI,https://www.observe.ai/careers,2,India AI/SaaS backend,yes,AI/SaaS
+Eightfold AI,https://eightfold.ai/careers/,2,AI HR platform/backend,yes,AI/SaaS
+Whatfix,https://whatfix.com/careers/,2,India SaaS/backend,yes,SaaS India
+Uniphore,https://www.uniphore.com/careers/,2,AI conversation platform,yes,AI/SaaS
+Innovaccer,https://innovaccer.com/careers,2,Healthcare data/backend,yes,HealthTech
+Icertis,https://www.icertis.com/company/careers/,2,Enterprise SaaS/backend,yes,SaaS India
+Druva,https://www.druva.com/about/careers/,2,Cloud/data protection backend,yes,Infra India
+Cohesity,https://www.cohesity.com/company/careers/,2,Data protection infra,yes,Infra
+Nutanix,https://www.nutanix.com/company/careers,2,Infra/cloud/backend,yes,Infra
+Thoughtworks,https://www.thoughtworks.com/careers/jobs,3,Good engineering roles; not always top comp,yes,Consulting/Product
+InMobi,https://www.inmobi.com/company/careers/,2,Ads/platform backend India,yes,AdTech India
+Glance,https://glance.com/careers/,2,Consumer/platform India,yes,Consumer India
+Moloco,https://www.moloco.com/en/careers,1,Ads ML/backend platform,yes,AdTech
+The Trade Desk,https://www.thetradedesk.com/us/careers/open-positions,1,Ads platform/high comp,yes,AdTech
+AppLovin,https://www.applovin.com/jobs/,2,Ads/platform backend,yes,AdTech
+Unity,https://unity.com/careers/positions,2,Gaming/platform/backend,yes,Gaming
+Epic Games,https://www.epicgames.com/site/en-US/careers/jobs,2,Gaming/platform/backend,yes,Gaming
+Electronic Arts,https://ea.gr8people.com/jobs,2,Gaming/platform/backend,yes,Gaming
+Sony,https://www.sonyjobs.com/,2,Systems/platform,yes,Consumer Electronics
+Samsung,https://sec.wd3.myworkdayjobs.com/Samsung_Careers,2,Systems/platform India,yes,Consumer Electronics
+Qualcomm,https://careers.qualcomm.com/careers,1,Systems/platform/high comp,yes,Semiconductor
+AMD,https://careers.amd.com/careers-home/jobs,1,Systems/platform/high comp,yes,Semiconductor
+Intel,https://jobs.intel.com/en/search-jobs,2,Systems/platform,yes,Semiconductor
+Cisco,https://jobs.cisco.com/jobs/SearchJobs,2,Networking/backend/platform,yes,Networking
+Juniper Networks,https://jobs.juniper.net/jobs/search,2,Networking/backend/platform,yes,Networking
+Arista Networks,https://www.arista.com/en/careers/open-positions,1,Networking/high comp,yes,Networking
+Ciena,https://ciena.wd5.myworkdayjobs.com/Careers,2,Networking/platform,yes,Networking
+UiPath,https://www.uipath.com/careers/jobs,2,Automation/platform backend,yes,SaaS
+Automation Anywhere,https://www.automationanywhere.com/company/careers,2,Automation/platform backend,yes,SaaS
+Celonis,https://www.celonis.com/careers/jobs/,2,Data/process platform,yes,SaaS
+Dataiku,https://www.dataiku.com/careers/jobs/,2,ML/data platform,yes,AI/Data
+Alteryx,https://www.alteryx.com/careers/search-jobs,2,Analytics/platform,yes,Data/SaaS
+Anaplan,https://www.anaplan.com/careers/jobs/,2,Enterprise SaaS backend,yes,SaaS
+Veeva,https://careers.veeva.com/job-search-results/,2,SaaS/backend,yes,SaaS
+Benchling,https://www.benchling.com/careers/open-roles,2,SaaS/data platform,yes,SaaS
+Tempus,https://www.tempus.com/careers/open-positions/,2,Health AI/data backend,yes,HealthTech
+Flatiron Health,https://flatiron.com/careers/open-positions/,2,Health data/backend,yes,HealthTech
+Oscar Health,https://www.hioscar.com/careers,2,Healthtech backend,yes,HealthTech
+Included Health,https://includedhealth.com/careers/,2,Healthtech backend,yes,HealthTech
+Datavant,https://www.datavant.com/about/careers/,2,Healthcare data/backend,yes,HealthTech
+Vanta,https://www.vanta.com/careers,2,Security/compliance SaaS,yes,Security/SaaS
+Drata,https://drata.com/careers,2,Security/compliance SaaS,yes,Security/SaaS
+Secureframe,https://secureframe.com/careers,3,Security/compliance SaaS,yes,Security/SaaS
+Deel,https://www.deel.com/careers,2,HR/payroll platform/backend,yes,SaaS
+Remote,https://remote.com/careers,2,HR/payroll platform/backend,yes,SaaS
+Workday,https://workday.wd5.myworkdayjobs.com/Workday,2,Enterprise SaaS/platform,yes,SaaS
+Monday.com,https://monday.com/careers,2,SaaS/platform backend,yes,SaaS
+PagerDuty,https://www.pagerduty.com/careers/jobs/,2,Infra/SRE platform backend,yes,Infra/SaaS
+LaunchDarkly,https://launchdarkly.com/careers/,2,Developer platform/backend,yes,DevTools
+Harness,https://www.harness.io/careers,2,DevOps platform/backend,yes,DevTools
+GitGuardian,https://www.gitguardian.com/careers,2,Developer security,yes,Security
+Checkr,https://checkr.com/careers/jobs,2,SaaS/backend,yes,SaaS
+Faire,https://www.faire.com/careers,2,Marketplace/backend,yes,Commerce
+Flexport,https://www.flexport.com/careers/jobs/,2,Logistics/backend/platform,yes,Logistics
+Navan,https://navan.com/careers/openings,2,Travel/fintech platform,yes,Travel/SaaS
+Clari,https://www.clari.com/careers/,2,SaaS/backend,yes,SaaS
+Gong,https://www.gong.io/careers/,2,AI/SaaS backend,yes,SaaS
+Outreach,https://www.outreach.io/company/careers,2,SaaS/backend,yes,SaaS
+Salesloft,https://salesloft.com/company/careers/,2,SaaS/backend,yes,SaaS
+Intercom,https://www.intercom.com/careers,2,SaaS/backend/AI,yes,SaaS
+Zendesk,https://www.zendesk.com/company/careers/,2,SaaS/backend,yes,SaaS
+Braze,https://www.braze.com/company/careers,2,Messaging/data backend,yes,SaaS
+Iterable,https://iterable.com/company/careers/,2,Messaging/backend,yes,SaaS
+Klaviyo,https://www.klaviyo.com/careers/jobs,2,Marketing/data backend,yes,SaaS
+HubSpot,https://www.hubspot.com/careers/jobs,2,SaaS/backend,yes,SaaS
+Applied Intuition,https://www.appliedintuition.com/careers,1,Autonomy platform/backend,yes,Autonomous Systems
+Aurora,https://aurora.tech/careers,2,Autonomy/backend/platform,yes,Autonomous Systems
+Waymo,https://waymo.com/careers/,1,Autonomy/backend/platform,yes,Autonomous Systems
+Zoox,https://zoox.com/careers/,2,Autonomy/backend/platform,yes,Autonomous Systems
+Tesla,https://www.tesla.com/careers/search/,1,Autonomy/platform/backend,yes,Autonomous Systems
+Rivian,https://careers.rivian.com/careers-home/jobs,2,EV/platform/backend,yes,Autonomous Systems
+Lucid Motors,https://www.lucidmotors.com/careers/search,2,EV/platform/backend,yes,Autonomous Systems
+Nuro,https://www.nuro.ai/careers,2,Autonomy/backend/platform,yes,Autonomous Systems
+Motional,https://motional.com/careers,2,Autonomy/backend/platform,yes,Autonomous Systems
+Skydio,https://www.skydio.com/jobs,2,Robotics/backend/platform,yes,Robotics
+SpaceX,https://www.spacex.com/careers/jobs/,1,Systems/backend/platform,yes,Aerospace
+Blue Origin,https://www.blueorigin.com/careers/search,2,Systems/backend/platform,yes,Aerospace
+Relativity Space,https://www.relativityspace.com/careers,2,Systems/backend/platform,yes,Aerospace
+Planet Labs,https://www.planet.com/company/careers/,2,Data/platform/backend,yes,Aerospace/Data
+Rocket Lab,https://www.rocketlabusa.com/careers/positions/,2,Systems/backend/platform,yes,Aerospace

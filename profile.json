@@ -1,0 +1,51 @@
+{
+  "target_titles": [
+    "backend engineer",
+    "software engineer",
+    "genai engineer",
+    "ai platform engineer",
+    "ml platform engineer",
+    "platform engineer",
+    "infrastructure engineer",
+    "search engineer"
+  ],
+  "preferred_keywords": [
+    "python",
+    "java",
+    "backend",
+    "distributed systems",
+    "microservices",
+    "kubernetes",
+    "aws",
+    "gcp",
+    "llm",
+    "genai",
+    "rag",
+    "agents",
+    "retrieval",
+    "search",
+    "platform",
+    "infrastructure"
+  ],
+  "avoid_keywords": [
+    "intern",
+    "internship",
+    "frontend only",
+    "qa",
+    "quality assurance",
+    "support",
+    "sales engineer",
+    "customer success",
+    "director",
+    "principal"
+  ],
+  "preferred_locations": [
+    "india",
+    "bengaluru",
+    "bangalore",
+    "remote"
+  ],
+  "max_experience_years": 6,
+  "posted_within_days": 30,
+  "minimum_score": 70
+}
